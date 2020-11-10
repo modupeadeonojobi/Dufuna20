@@ -1,1 +1,1 @@
-hello world, Module 1 is great.
+hello world, Module 1 is great. Module 2 is even better, I have learnt a lot of things.
